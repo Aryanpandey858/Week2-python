@@ -1,0 +1,10 @@
+{
+    "name": "Aryan",
+    "course": "B.Tech Computer Science",
+    "year": 2,
+    "skills": ["Python", "HTML", "JavaScript"],
+    "address": {
+        "city": "Delhi",
+        "country": "India"
+    }
+}
